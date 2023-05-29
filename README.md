@@ -6,5 +6,5 @@ This service follow the different patterns and architecture, like Hexagonal arch
 
  <b> API -> UnitOfWork </b>
   <div align="center">
-    <img src="UnitOfWork.png" width="100%" height="500px"</img> 
+    <img src="UnitOfWork.png" width="100%" </img> 
 </div>
